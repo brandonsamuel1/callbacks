@@ -25,8 +25,6 @@ var reversed = map(words, function(word) {
 console.log(lengths, uppercases, reversed);
 
 
-
-
 // map(words, function(word) {
 //   return word.length;
 // });
